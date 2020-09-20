@@ -1,0 +1,9 @@
+import com.*;
+packae mypackage;
+public class program2{
+public static void main(String[] args){
+loanaccount acc=new loanaccount();
+transact acc=new credit();
+transact acc=new debit();
+}
+
